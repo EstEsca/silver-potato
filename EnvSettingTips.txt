@@ -1,0 +1,9 @@
+[Setting Symbolic Link] #Windows
+
+https://stackoverflow.com/questions/46755604/how-to-navigate-to-a-different-directory-in-jupyter-notebook
+
+expression> mklink /D name_of_the_link path_of_the_target
+
+example> mklink /D G_Drive G:\DsN20
+
+---------
